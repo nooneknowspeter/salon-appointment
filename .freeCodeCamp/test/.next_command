@@ -193,3 +193,8 @@ clear
 ./salon.sh
 ./salon.sh
 git add .
+git commit -m "added booking time feature in function"
+git push
+clear
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+git add .
