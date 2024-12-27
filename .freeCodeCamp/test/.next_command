@@ -113,3 +113,46 @@ clear
 ./salon.sh
 ./salon.sh
 git add .
+git commit
+clear
+git remote -v
+git remote --help
+git remote set-url https://github.com/nooneknowspeter/salon-appointment.git
+git remote set-url --delete
+git remote set-url --help
+git remote --help
+__vsc_prompt_cmd_original
+git remote set-url origin https://github.com/nooneknowspeter/salon-appointment.githttps://github.com/nooneknowspeter/salon-appointment.git
+git push
+git branch -M main
+git push -u origin main
+git remote set-url origin https://github.com/nooneknowspeter/salon-appointment.git
+git branch -M main
+git push -u origin main
+clear
+touch README.md
+git add README.md
+git commit -m "added README.md"
+git push
+clear
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+./salon.sh
+celar
+clear
+clear
+./salon.sh
+clear
+git add .
