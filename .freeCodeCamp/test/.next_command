@@ -198,3 +198,18 @@ git push
 clear
 pg_dump -cC --inserts -U freecodecamp salon > salon.sql
 git add .
+git commit -m "dumped database in sql file"
+git push
+clear
+touch rebuild-database.sh
+which $SHELL
+chmod +x rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+./rebuild-database.sh
+git add .
