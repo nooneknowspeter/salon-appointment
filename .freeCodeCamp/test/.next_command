@@ -192,3 +192,4 @@ clear
 ./salon.sh
 ./salon.sh
 ./salon.sh
+git add .
